@@ -14,7 +14,7 @@ Meu Portofólio de Projetos de Data Science
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jefferson-souza-103b81183/)
-
+* [Medium](https://medium.com/@je31563)
 
 
 ## Projetos:
