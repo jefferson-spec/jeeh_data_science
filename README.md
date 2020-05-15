@@ -6,7 +6,7 @@ Meu Portofólio de Projetos de Data Science
 </p>
 
 # Jefferson Souza
-<sub>* Estudante Analise De Sistemas |Python | Machine Learning & Data Science *</sub>
+<sub>* system analysis student | Machine learning | Data Scientist *</sub>
 
 
 
