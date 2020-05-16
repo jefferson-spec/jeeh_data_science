@@ -18,7 +18,7 @@
 
 
 ## Projetos:
-*[PROJETO](Classificação_de_Roupas_usando_Deep_Learning.ipynb)**
+*([PROJETO]Classificação_de_Roupas_usando_Deep_Learning.ipynb)**
 
 
 ---
