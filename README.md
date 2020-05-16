@@ -1,4 +1,4 @@
-# jeeh_data_science
+# data_science
 Meu Portofólio de Projetos de Data Science
 
 <p align="center">
@@ -18,7 +18,7 @@ Meu Portofólio de Projetos de Data Science
 
 
 ## Projetos:
-*[PROJETO]_Classificação_de_Roupas_usando_Deep_Learning.ipynb **
+* **
 
 
 ---
