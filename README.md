@@ -1,4 +1,4 @@
-# data_science
+# data science
 Meu Portofólio de Projetos de Data Science
 
 <p align="center">
