@@ -18,8 +18,8 @@
 
 
 ## Projetos:
-* **
-
+*[PROJETO]Classificação de Roupas usando Deep Learning :** https://bit.ly/3dQKErQ
+ 
 
 ---
 
