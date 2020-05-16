@@ -1,4 +1,3 @@
-
 # Meu Portofólio de Projetos de Data Science
 
 <p align="center">
@@ -18,7 +17,7 @@
 
 
 ## Projetos:
-*[PROJETO]Classificação de Roupas usando Deep Learning :** https://bit.ly/3dQKErQ
+* Classificação de Roupas usando Deep Learning:** https://bit.ly/3dQKErQ
  
 
 ---
