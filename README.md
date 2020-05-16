@@ -1,5 +1,5 @@
-# data science
-Meu Portofólio de Projetos de Data Science
+
+# Meu Portofólio de Projetos de Data Science
 
 <p align="center">
   <img src="banner.png" >
