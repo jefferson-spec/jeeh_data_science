@@ -18,7 +18,7 @@
 
 ## Projetos:
 * Classificação de Roupas usando Deep Learning:** https://bit.ly/3dQKErQ
- 
+* Analise_titanic:** https://bit.ly/3bAript 
 
 ---
 
